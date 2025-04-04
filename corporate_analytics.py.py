@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import io
-import Plotly Express import # FIX: Correct Plotly Express import
+import Correct Plotly Express import # FIX: Correct Plotly Express import
 import tabula                   # For PDF reading
 import tempfile                 # To save PDF temporarily for Tabula
 import os
