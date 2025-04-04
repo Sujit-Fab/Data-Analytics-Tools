@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-plotly>=5.0.0
+plotly>=5.18.0
 tabula-py
 PyPDF2
 openpyxl
